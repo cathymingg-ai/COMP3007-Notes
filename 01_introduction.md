@@ -20,5 +20,14 @@
 #### Referential Transparency
 - Given a function input value that can be changed but has the same output (result); *same entity*
 
+### 1.2 Why Study Alternative Paradigms?
+- For nderstanding:
+    - increase vocabulary about programming features
+    - broader perspective about 'language interconnectedness'
+- Further into your programming journey:
+    - Deep understanding of prog. languages that you already know
+    - complexity and design principles
+    - create new features
+
 ## 2. Types of Programming Paradigms
 *To be continued - notes transfer*
