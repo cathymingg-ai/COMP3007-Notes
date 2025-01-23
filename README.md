@@ -1,8 +1,11 @@
 Author: Cathleen San Buenaventura
-Course Subject: COMP3007 - Programming Paradigms
+
+Course Subject: Programming Paradigms (COMP3007)
+
 Winter Term of 2025
 
-# About the Course:
+
+# About the Course
 ## 1. Programming Paradigms 
 - A style or approach to problem-solving with programming languages; characterized by: 
     - Design focus 
